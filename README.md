@@ -23,7 +23,7 @@ yasmin@github:~$ whoami
 ```
 
 **Yasmin Aline** | Estagiária em Desenvolvimento de Software  
-🎓 Cursando: 5º/8º semestre - Ciência da Computação  
+🎓 Cursando: 7º/8º semestre - Ciência da Computação  
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠤⠒⠒⠒⠒⠤⢄⣈⠈⠁⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⢀⡤⠒⠝⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠲⢄⡀⠀⠀⠀⠀⠀
